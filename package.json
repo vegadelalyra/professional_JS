@@ -4,15 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html ejercicios/**/*.html"
+    "start": "parcel index.html ejercicios/*.html"
   },
   "keywords": [],
   "author": "Vega de la Lyra <lyradeperseo@gmail.com> (https://www.linkedin.com/in/vegadelalyra/)",
   "license": "MIT",
+  "browserslist": [
+    "last 1 chrome version"
+  ],
   "devDependencies": {
     "parcel": "^2.8.1"
-  },
-  "browserslist": [
-    "last 1 Chrome version"
-  ]
+  }
 }
