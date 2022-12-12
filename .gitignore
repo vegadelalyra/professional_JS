@@ -2,8 +2,8 @@
 node_modules/
 
 # Development directories
-ejercicios
+ejercicios/
 
 # Struggling with parcel
-.parcel-cache
-dist
+.parcel-cache/
+dist/
