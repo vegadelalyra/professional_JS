@@ -1,0 +1,18 @@
+{
+  "name": "professional-javascript",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html ejercicios/typescript/index.html ejercicios/**/*.html"
+  },
+  "keywords": [],
+  "author": "Vega de la Lyra <lyradeperseo@gmail.com> (https://www.linkedin.com/in/vegadelalyra/)",
+  "license": "MIT",
+  "browserslist": [
+    "last 1 chrome version"
+  ],
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  }
+}
