@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html ejercicios/*.html"
+    "start": "npx parcel index.html ejercicios/typescript/index.html ejercicios/**/*.html"
   },
   "keywords": [],
   "author": "Vega de la Lyra <lyradeperseo@gmail.com> (https://www.linkedin.com/in/vegadelalyra/)",
